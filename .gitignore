@@ -12,3 +12,5 @@ bin/
 # Ant
 build.xml
 local.properties
+
+build
